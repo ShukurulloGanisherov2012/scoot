@@ -3,12 +3,12 @@
 * {
     font-family: "Space Mono", monospace;
 }
-
+body{
+    overflow-x: hidden;
 .container {
     width: 1440px;
     height: 3381px;
     margin: auto;
-    overflow-x: hidden;
 }
 
 .content1 {
