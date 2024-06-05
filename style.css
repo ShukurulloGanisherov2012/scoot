@@ -8,6 +8,7 @@
     width: 1440px;
     height: 3381px;
     margin: auto;
+    overflow-x: hidden;
 }
 
 .content1 {
